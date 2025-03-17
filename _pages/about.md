@@ -98,14 +98,16 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 \| [\[video\]](https://github.com/)
 
 
-# 🤖 Projects
+# 🤖 Projects as founder
 - **[ReferEngine](https://www.coze.com/s/ZmFpUYUM2/)**: an AI agent that assists you with your academic research.
+- **[SSRLBot]**: a Learning Science AI agent supporting students with health education.
+- **[LearningAnalytics WeChat Official Account]([https://www.coze.com/s/ZmFpUYUM2/](https://mp.weixin.qq.com/mp/homepage?__biz=MzIzMDQ5OTkxNQ==&hid=2&sn=367131f5a0a32064197c5f34ad30065b&scene=18&devicetype=iOS18.3&version=1800383a&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_6004f63f2618&fontScale=100)**: an EdTech media platform.
+- **[Data Science and Education Association](https://www.linkedin.com/company/data-science-and-education-association-at-teachers-college-columbia-university/)**: a student-led organization dedicated to the growing conversation around the use of data in education.
+- **[Shake NYC Media](https://mp.weixin.qq.com/mp/homepage?__biz=MzI5MDAzMTAzMQ==&hid=3&sn=18597adf356ef0a2802c5069e4827d8e&scene=18&devicetype=iOS18.3&version=1800383a&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_0ced417bd7aa&fontScale=100)**: a media platform about New York City.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
