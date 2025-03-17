@@ -59,15 +59,6 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💻 Work and Research Experience
 - *2025.01 - present*, **Senior Data Quality Specialist**, Cohere, *Toronto* 
@@ -90,16 +81,33 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2016.09 - 2018.05*, M.S. in Learning Analytics, Columbia University
 
 # 🎖 Honors and Awards
-- *2025* **Loop Lab Award** McGill University
-- *2024* **Graduate Research Enhancement and Travel Award** McGill University
-- *2024* **The Most Popular Bot Award** Coze AI Bot Challenge: Learning Hackathon, ByteDance
-- *2022-2025* **Graduate Excellence Fellowship** McGill University
-- *2017* **EdTech Innovation Award [Top 8]** Teachers College, Columbia University
+- *2025*, **Loop Lab Award**, McGill University
+- *2024*, **Graduate Research Enhancement and Travel Award**, McGill University
+- *2024*, **The Most Popular Bot Award**, Coze AI Bot Challenge: Learning Hackathon, ByteDance
+- *2022-2025*, **Graduate Excellence Fellowship**, McGill University
+- *2017*, **EdTech Innovation Award [Top 8]**, Teachers College, Columbia University
 
 # 💬 Invited Talks
 - *2022.03*, **Invited Presentation**. [2022 Columbia University U.S.-China Education Forum](https://mp.weixin.qq.com/s/FZNV9Dao7ZcVWUFY34Wb3Q), Columbia University, *New York*. 
-- *2021.12*,**Invited Panel**. Columbia Global Center Alumni Panel Talk, *Beijing*.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.12*, **Invited Panel**. Columbia Global Center Alumni Panel Talk, *Beijing*.
+- *2021.05*, **Invited Presentation**. Ed for Growth (EFG) Workshop, *Beijing*.
+- *2020.10*, **Invited Presentation**. Data Science and Education Association (Office of Graduate Student Life & Development, Columbia University) Panel Talk, *New York*.
+- *2019.09*, **Invited Panel**. 2019 Columbia University Career Week (Career Education & Professional Development), *New York*.
+- *2019.09*, **Invited Presentation**. EdWithU Workshop, *New York*.
+
+\| [\[video\]](https://github.com/)
+
+
+# 🤖 Projects
+- **[ReferEngine](https://www.coze.com/s/ZmFpUYUM2/)**: an AI agent that assists you with your academic research.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 # 🌎 Not About Research
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
