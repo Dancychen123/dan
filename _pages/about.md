@@ -22,7 +22,7 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 I will present at 2025 AERA Annual Meeting on April 27th, 1:30-3:00pm (The Colorado Convention Center, Floor: Ballroom Level, Four Seasons Ballroom 1). 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -52,12 +52,6 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 **Under Review Articles**
 - Zhang, Y., Gao, J., Huang, X., Li, S., Wu, M., Lin, Y., & Lobczowski, N. G. (under review). The Effectiveness of Technology Integration in Secondary Mathematics: A Meta-Analysis from an Activity Theory Perspective. Manuscript Under Review.
 - Alam, S., Gao, J., & Dubé, A.K. (under review). A Systematic Review and Meta-Analysis of Digital Mathematics Interventions for K-12 Mathematical Learning Disabilities Students. Manuscript Under Review.
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 
 
 # 💻 Work and Research Experience
@@ -115,4 +109,5 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - A side job as a photographer, having participated in shooting New York Fashion Week for five consecutive years（2016-2020）.
 - Check my [Vogue portfolio](https://www.vogue.com/photovogue/photographers/244300)
 - A devoted fan of Harry Potter.
-- 
+- Passionate about exploring entrepreneurial ventures.
+- A non-traditional researcher.
