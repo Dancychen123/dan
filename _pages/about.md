@@ -97,8 +97,9 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2017* **EdTech Innovation Award [Top 8]** Teachers College, Columbia University
 
 # 💬 Invited Talks
-- *2022.03*, **Invited Presentation**. 2022 Columbia University U.S.-China Education Forum, Columbia University, *New York*. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.03*, **Invited Presentation**. [2022 Columbia University U.S.-China Education Forum]([https://github.com](https://mp.weixin.qq.com/s/FZNV9Dao7ZcVWUFY34Wb3Q)), Columbia University, *New York*. 
+- *2021.12*,**Invited Panel**. Columbia Global Center Alumni Panel Talk, *Beijing*.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🌎 Not About Research
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
