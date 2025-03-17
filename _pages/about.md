@@ -22,13 +22,19 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 
 
 # 🔥 News
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+**Peer-Reviewed Article Publications**
+1. Gao, J., Wei, S., & Dubé, A. (2024). Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis. Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Peer-Reviewed Conference Proceedings**
+3. Gao, J., & Li, S. (2025). Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education. Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
+2. Gao, J., & Dubé, A. K. (2024). COMPARISON OF LEARNING EXPERIENCE AMONG INFORMAL LEARNING APPS. In ICERI2024 Proceedings (pp. 337-341). IATED. 10.21125/iceri.2024.0173
+1. Gao, J., Huang, X., Dubé, A. K., Lobczowski, N. G. (2024, June). Exploring Duolingo User’s Learning Experience Through Text Mining. Proceeding from 2024 ISLS Annual Meeting, Buffalo, U.S.. https://repository.isls.org/handle/1/11014
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -57,17 +63,17 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2016.09 - 2018.05*, **Research Assistant**, Teachers College, Columbia University, *New York*
 
 
+# 📖 Educations
+- *2022.09 - present*, Ph.D. Candidate in Learning Sciences, McGill University
+- *2016.09 - 2018.05*, M.S. in Learning Analytics, Columbia University
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2022.09 - present*, Ph.D. Candidate in Learning Sciences, McGill University
-- *2016.09 - 2018.05*, M.S. in Learning Analytics, Columbia University 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 🌎 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
