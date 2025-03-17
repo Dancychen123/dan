@@ -1,0 +1,14 @@
+# 💻 Work and Research Experience
+- *2025.01 - present*, **Senior Data Quality Specialist**, Cohere, *Toronto* 
+- *2024.01 - present*, **Teaching Assistant**, Faculty of Education, McGill University, *Montreal* 
+- *2023.09 - present*, **Affiliate Member**, CREATE Lab, McGill University, *Montreal*
+- *2022.09 - present*, **Researcher**, Technology, Learning and Cognition Lab, McGill University, *Montreal*
+- *2021.02 - present*, **Founder**, Tiz EdTech, *Shanghai*
+- *2022.09 - 2023.05*, **Graduate Student Assistant**, Graduate and Postdoctoral Studies, McGill University, *Montreal*
+- *2022.09 - 2023.05*, **Conference Co-chair**, Education Graduate Students’ Society, McGill University, *Montreal*
+- *2021.11 - 2022.08*, **Business Intelligence Specialist**, LingoAce, *Beijing*
+- *2020.06 - 2022.11*, **Senior Data Analyst**, Moonshot Academy, *Beijing*
+- *2018.06 - 2020.06*, **Data Scientist**, Educational Alliance, *New York*
+- *2018.01 - 2020.05*, **Research Assistant**, Kindness.org, *New York*
+- *2017.09 - 2018.05*, **Data Analyst Intern**, McGraw Hill, *New York*
+- *2016.09 - 2018.05*, **Research Assistant**, Teachers College, Columbia University, *New York*
