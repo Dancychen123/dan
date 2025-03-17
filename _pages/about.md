@@ -17,7 +17,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-{% include_relative includes/intro.md %}
 
 I am a Ph.D. candidate in the Learning Sciences Program at the Department of Educational & Counselling Psychology, McGill University. I am also a researcher at <a href='https://tlclab.owlstown.net'>Technology, Learning, & Cognition Lab</a>. My research focuses on AI in education, learning analytics, adaptive/personalized learning, machine learning, and natural language processing. I have been an educational data specialist for 5 years, supporting many education companies & organizations (McGraw Hill, Read to Lead, Moonshot Academy, LingoAce, etc.) in the U.S. and China. Beyond that, I founded an EdTech community named Tiz EdTech (a member of AWS EdStart) to support 2,000+ educators and 15,000+ followers. 
 
