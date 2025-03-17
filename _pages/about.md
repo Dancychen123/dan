@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the Learning Sciences Program at the Department of Educational & Counselling Psychology, McGill University. I am also a doctoral researcher at <a href='https://tlclab.owlstown.net'>Technology, Learning, & Cognition Lab</a>. My research focuses on educational technology (data science & artificial intelligence), e-learning, and adaptive learning. I have been an educational data specialist for 5 years, supporting many education companies & organizations (McGraw Hill, Read to Lead, Moonshot Academy, LingoAce, etc.) in the U.S. and China. Beyond that, I founded Data Science and Education Association in Teachers College, Columbia University. I also founded an EdTech community named TizEdTech (a member of AWS EdStart) to support 1500+ educators and 5000+ followers. 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Ph.D. candidate in the Learning Sciences Program at the Department of Educational & Counselling Psychology, McGill University. I am also a researcher at <a href='https://tlclab.owlstown.net'>Technology, Learning, & Cognition Lab</a>. My research focuses on AI in education, learning analytics, adaptive/personalized learning, machine learning, and natural language processing. I have been an educational data specialist for 5 years, supporting many education companies & organizations (McGraw Hill, Read to Lead, Moonshot Academy, LingoAce, etc.) in the U.S. and China. Beyond that, I founded an EdTech community named Tiz EdTech (a member of AWS EdStart) to support 2,000+ educators and 15,000+ followers. 
 
 
 # 🔥 News
