@@ -112,4 +112,7 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 </div>
 
 # 🌎 Not About Research
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- A side job as a photographer, having participated in shooting New York Fashion Week for five consecutive years（2016-2020）.
+- Check my [Vogue portfolio](https://www.vogue.com/photovogue/photographers/244300)
+- A devoted fan of Harry Potter.
+- 
