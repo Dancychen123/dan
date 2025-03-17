@@ -94,11 +94,11 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2024* **Graduate Research Enhancement and Travel Award** McGill University
 - *2024* **The Most Popular Bot Award** Coze AI Bot Challenge: Learning Hackathon, ByteDance
 - *2022-2025* **Graduate Excellence Fellowship** McGill University
-- *2017* **2017 EdTech Innovation Award [Top 8]** Teachers College, Columbia University
+- *2017* **EdTech Innovation Award [Top 8]** Teachers College, Columbia University
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.03*, **Invited Presentation**. 2022 Columbia University U.S.-China Education Forum, Columbia University, *New York*. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 🌎 Internships
+# 🌎 Not About Research
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
