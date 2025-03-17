@@ -49,8 +49,9 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - Gao, J. (2017, December). Columbia University (CU) Event Platform. Poster. 2017 Teachers College Innovation Award, New York, U.S..
 - Gao, J., Pepe, S., Chen, C. (2017, April). NYC Foster Care Data Challenge Report. Paper. 2017 Authorea NYC Foster Care Data Challenge, New York, U.S..
 
-
-
+**Under Review Articles**
+- Zhang, Y., Gao, J., Huang, X., Li, S., Wu, M., Lin, Y., & Lobczowski, N. G. (under review). The Effectiveness of Technology Integration in Secondary Mathematics: A Meta-Analysis from an Activity Theory Perspective. Manuscript Under Review.
+- Alam, S., Gao, J., & Dubé, A.K. (under review). A Systematic Review and Meta-Analysis of Digital Mathematics Interventions for K-12 Mathematical Learning Disabilities Students. Manuscript Under Review.
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -89,8 +90,11 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2016.09 - 2018.05*, M.S. in Learning Analytics, Columbia University
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* **Loop Lab Award** McGill University
+- *2024* **Graduate Research Enhancement and Travel Award** McGill University
+- *2024* **The Most Popular Bot Award** Coze AI Bot Challenge: Learning Hackathon, ByteDance
+- *2022-2025* **Graduate Excellence Fellowship** McGill University
+- *2017* **2017 EdTech Innovation Award [Top 8]** Teachers College, Columbia University
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
