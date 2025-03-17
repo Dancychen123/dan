@@ -4,25 +4,25 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Work and Research Experience"
-    url: "/#-honors-and-awards"
+    url: "/#work-research"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Honors and Awards"
-    url: "/#-invited-talks"
+    url: "/#honors-awards"
 
   - title: "Invited Talks"
-    url: "/#-internships"
+    url: "/#invited-talks"
 
- - title: "Projects as founder"
-    url: "/#-internships"
+  - title: "Projects as Founder"
+    url: "/#projects-founder"
 
-- title: "Not About Research"
-    url: "/#-internships"
+  - title: "Not About Research"
+    url: "/#not-about-research"
