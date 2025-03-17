@@ -9,14 +9,20 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "Work and Research Experience"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "Honors and Awards"
     url: "/#-invited-talks"
 
-  - title: "Internships"
+  - title: "Invited Talks"
+    url: "/#-internships"
+
+ - title: "Projects as founder"
+    url: "/#-internships"
+
+- title: "Not About Research"
     url: "/#-internships"
