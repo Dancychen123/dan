@@ -27,7 +27,7 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 
 # 📝 Publications 
 **Peer-Reviewed Article Publications**
-1. Gao, J., Wei, S., & Dubé, A. (2024). Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis. Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
+- 1. Gao, J., Wei, S., & Dubé, A. (2024). Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis. Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
 
 **Peer-Reviewed Conference Proceedings**
 3. Gao, J., & Li, S. (2025). Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education. Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
