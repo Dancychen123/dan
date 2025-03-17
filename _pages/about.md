@@ -70,7 +70,7 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2016.09 - 2018.05*, **Research Assistant**, Teachers College, Columbia University, *New York*
 
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - present*, Ph.D. Candidate in Learning Sciences, McGill University
 - *2016.09 - 2018.05*, M.S. in Learning Analytics, Columbia University
 
