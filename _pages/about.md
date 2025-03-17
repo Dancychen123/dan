@@ -98,7 +98,7 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - **[Shake NYC Media](https://mp.weixin.qq.com/mp/homepage?__biz=MzI5MDAzMTAzMQ==&hid=3&sn=18597adf356ef0a2802c5069e4827d8e&scene=18&devicetype=iOS18.3&version=1800383a&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_0ced417bd7aa&fontScale=100)**: a media platform about New York City.
 
 
-# 🌎 Not About Research
+# 🌎 Not about Research
 - A side job as a photographer, having participated in shooting New York Fashion Week for five consecutive years（2016-2020）.
 - Check my [Vogue portfolio](https://www.vogue.com/photovogue/photographers/244300)
 - A devoted fan of Harry Potter.
