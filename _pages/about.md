@@ -23,7 +23,7 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 I will present at 2025 AERA Annual Meeting on April 27th, 1:30-3:00pm (The Colorado Convention Center, Floor: Ballroom Level, Four Seasons Ballroom 1). 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 **Peer-Reviewed Article Publications**
@@ -89,8 +89,6 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2019.09*, **Invited Panel**. 2019 Columbia University Career Week (Career Education & Professional Development), *New York*.
 - *2019.09*, **Invited Presentation**. EdWithU Workshop, *New York*.
 
-\| [\[video\]](https://github.com/)
-
 
 # 🤖 Projects as founder
 - **[ReferEngine](https://www.coze.com/s/ZmFpUYUM2/)**: an AI agent that assists you with your academic research.
@@ -99,11 +97,6 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - **[Data Science and Education Association](https://www.linkedin.com/company/data-science-and-education-association-at-teachers-college-columbia-university/)**: a student-led organization dedicated to the growing conversation around the use of data in education.
 - **[Shake NYC Media](https://mp.weixin.qq.com/mp/homepage?__biz=MzI5MDAzMTAzMQ==&hid=3&sn=18597adf356ef0a2802c5069e4827d8e&scene=18&devicetype=iOS18.3&version=1800383a&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_0ced417bd7aa&fontScale=100)**: a media platform about New York City.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
 
 # 🌎 Not About Research
 - A side job as a photographer, having participated in shooting New York Fashion Week for five consecutive years（2016-2020）.
