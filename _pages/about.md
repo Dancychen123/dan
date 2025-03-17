@@ -43,12 +43,13 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💻 Work and Research Experience
-- *2022.09 - present*, **Researcher**, Technology, Learning and Cognition Lab, McGill University, *Montreal*
+- *2025.01 - present*, **Senior Data Quality Specialist**, Cohere, *Toronto* 
 - *2024.01 - present*, **Teaching Assistant**, Faculty of Education, McGill University, *Montreal* 
 - *2023.09 - present*, **Affiliate Member**, CREATE Lab, McGill University, *Montreal*
+- *2022.09 - present*, **Researcher**, Technology, Learning and Cognition Lab, McGill University, *Montreal*
+- *2021.02 - present*, **Founder**, Tiz EdTech, *Shanghai*
 - *2022.09 - 2023.05*, **Graduate Student Assistant**, Graduate and Postdoctoral Studies, McGill University, *Montreal*
 - *2022.09 - 2023.05*, **Conference Co-chair**, Education Graduate Students’ Society, McGill University, *Montreal*
-- *2021.02 - present*, **Founder**, Tiz EdTech, *Shanghai*
 - *2021.11 - 2022.08*, **Business Intelligence Specialist**, LingoAce, *Beijing*
 - *2020.06 - 2022.11*, **Senior Data Analyst**, Moonshot Academy, *Beijing*
 - *2018.06 - 2020.06*, **Data Scientist**, Educational Alliance, *New York*
