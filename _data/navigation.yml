@@ -4,21 +4,21 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/publications"
+    url: "/#publications"
 
   - title: "Work and Research Experience"
-    url: "/work-research"
+    url: "/#work-research"
 
   - title: "Educations"
-    url: "/educations"
+    url: "/#educations"
 
   - title: "Honors and Awards"
-    url: "/honors-awards"
+    url: "/#honors-awards"
 
   - title: "Invited Talks"
-    url: "/invited-talks"
+    url: "/#invited-talks"
 
   - title: "Projects as Founder"
-    url: "/projects"
+    url: "/#projects"
 
   
