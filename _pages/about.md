@@ -19,5 +19,6 @@ redirect_from:
 
 {% include_relative talk.md %}
 
+<span class='anchor' id='projects'></span>
 {% include_relative project.md %}
 
