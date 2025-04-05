@@ -9,6 +9,7 @@
 title                    : "Jie Gao"
 description              : "Ph.D. Candidate in Learning Sciences researching AI in education. "
 repository               : "JIE2016G/jg.github.io"
+baseurl                  : "/j.i.e"
 google_scholar_stats_use_cdn : true
 domain: "https://jie2016g.github.io/j.i.e"
 
