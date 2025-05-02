@@ -3,12 +3,12 @@
 - **Gao, J.**, Wei, S., & Dubé, A. (2024). Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis. Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
 
 **Peer-Reviewed Conference Proceedings**
+- Huang, X., **Gao, J.**, & Wu, H. (2025). SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning. Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy.
 - **Gao, J.**, & Li, S. (2025). Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education. Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
 - **Gao, J.**, & Dubé, A. K. (2024). COMPARISON OF LEARNING EXPERIENCE AMONG INFORMAL LEARNING APPS. In ICERI2024 Proceedings (pp. 337-341). IATED. 10.21125/iceri.2024.0173
 - **Gao, J.**, Huang, X., Dubé, A. K., Lobczowski, N. G. (2024, June). Exploring Duolingo User’s Learning Experience Through Text Mining. Proceeding from 2024 ISLS Annual Meeting, Buffalo, U.S.. https://repository.isls.org/handle/1/11014
 
 **Conference Posters and Presentations**
-- Huang, X., **Gao, J.**, & Wu, H. (2025). SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning. Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2024, Palermo, Italy.
 - **Gao, J.**, Song, Y., Cutumisu, M., & Dubé, A. (2025, April 23-27). The Application of ChatGPT Across Educational Levels: A Systematic Review. Roundtable Session. Annual American Educational Research Association (AERA) Conference, Denver, CO.
 - **Gao, J.** & Dubé, A.K. (2024, November). Comparison of Learning Experience Among Informal Learning Apps. Paper. 17th Annual International Conference of Education, Research and Innovation, Seville, Spain.
 - **Gao, J.**, Huang, X., & Dubé, A.K. (2024, October). Studying Mobile Learning Experience via Text Mining of App Store User Reviews. Poster. AECT International Convention 2024, Kansas City, U.S..
