@@ -3,6 +3,7 @@
 - *2016.09 - 2018.05*, M.S. in Learning Analytics, Columbia University
 
 # 🎖 Honors and Awards
+- *2025-2028*, **FRQSC Doctoral Research Scholarship**, Quebec Government
 - *2025*, **Loop Lab Award**, McGill University
 - *2024*, **Graduate Research Enhancement and Travel Award**, McGill University
 - *2024*, **The Most Popular Bot Award**, Coze AI Bot Challenge: Learning Hackathon, ByteDance
