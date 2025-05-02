@@ -8,6 +8,7 @@
 - **Gao, J.**, Huang, X., Dubé, A. K., Lobczowski, N. G. (2024, June). Exploring Duolingo User’s Learning Experience Through Text Mining. Proceeding from 2024 ISLS Annual Meeting, Buffalo, U.S.. https://repository.isls.org/handle/1/11014
 
 **Conference Posters and Presentations**
+- Huang, X., **Gao, J.**, & Wu, H. (2025). SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning. Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2024, Palermo, Italy.
 - **Gao, J.**, Song, Y., Cutumisu, M., & Dubé, A. (2025, April 23-27). The Application of ChatGPT Across Educational Levels: A Systematic Review. Roundtable Session. Annual American Educational Research Association (AERA) Conference, Denver, CO.
 - **Gao, J.** & Dubé, A.K. (2024, November). Comparison of Learning Experience Among Informal Learning Apps. Paper. 17th Annual International Conference of Education, Research and Innovation, Seville, Spain.
 - **Gao, J.**, Huang, X., & Dubé, A.K. (2024, October). Studying Mobile Learning Experience via Text Mining of App Store User Reviews. Poster. AECT International Convention 2024, Kansas City, U.S..
