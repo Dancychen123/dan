@@ -1,12 +1,10 @@
 # 📝 Publications 
-**Peer-Reviewed Article Publications**
-- **Gao, J.**, Wei, S., & Dubé, A. (2024). Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis. Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
-
-**Peer-Reviewed Conference Proceedings**
+**Peer-Reviewed Article Publications & Conference Proceedings**
 - Huang, X., **Gao, J.**, & Wu, H. (2025). [SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://link.springer.com/chapter/10.1007/978-3-031-99264-3_8). Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy.
-- **Gao, J.**, & Li, S. (2025). Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education. Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
-- **Gao, J.**, & Dubé, A. K. (2024). COMPARISON OF LEARNING EXPERIENCE AMONG INFORMAL LEARNING APPS. In ICERI2024 Proceedings (pp. 337-341). IATED. 10.21125/iceri.2024.0173
-- **Gao, J.**, Huang, X., Dubé, A. K., Lobczowski, N. G. (2024, June). Exploring Duolingo User’s Learning Experience Through Text Mining. Proceeding from 2024 ISLS Annual Meeting, Buffalo, U.S.. https://repository.isls.org/handle/1/11014
+- **Gao, J.**, & Li, S. (2025). [Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education](https://journals.lib.unb.ca/index.php/antistasis/article/download/34578/1882530293). Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
+- **Gao, J.**, & Dubé, A. K. (2024). [COMPARISON OF LEARNING EXPERIENCE AMONG INFORMAL LEARNING APPS](https://www.researchgate.net/profile/Jie-Gao-170/publication/386380846_Comparison_of_Learning_Experience_among_Informal_Learning_APPS/links/674f5a13876bd177783adc95/Comparison-of-Learning-Experience-among-Informal-Learning-APPS.pdf). In ICERI2024 Proceedings (pp. 337-341). IATED. 10.21125/iceri.2024.0173
+- **Gao, J.**, Huang, X., Dubé, A. K., Lobczowski, N. G. (2024, June). [Exploring Duolingo User’s Learning Experience Through Text Mining](https://repository.isls.org/bitstream/1/11014/1/ICLS2024_2355-2356.pdf). Proceeding from 2024 ISLS Annual Meeting, Buffalo, U.S.. https://repository.isls.org/handle/1/11014
+- **Gao, J.**, Wei, S., & Dubé, A. (2024). [Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis](https://edtecharchives.org/journal/1269/15691). Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
 
 **Conference Posters and Presentations**
 - **Gao, J.**, Song, Y., Cutumisu, M., & Dubé, A. (2025, April 23-27). The Application of ChatGPT Across Educational Levels: A Systematic Review. Roundtable Session. Annual American Educational Research Association (AERA) Conference, Denver, CO.
