@@ -1,5 +1,5 @@
 # 📖 Education
-- *2022.09 - present*, Ph.D. Candidate in Learning Sciences, McGill University
+- *2022.09 - present*, Ph.D. Candidate in Learning Sciences (Artificial Intelligence), McGill University
 - *2016.09 - 2018.05*, M.S. in Learning Analytics, Columbia University
 
 # 🎖 Honors and Awards
