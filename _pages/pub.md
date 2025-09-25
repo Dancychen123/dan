@@ -3,7 +3,7 @@
 - **Gao, J.**, Wei, S., & Dubé, A. (2024). Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis. Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
 
 **Peer-Reviewed Conference Proceedings**
-- Huang, X., **Gao, J.**, & Wu, H. (2025). SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning. Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy.
+- Huang, X., **Gao, J.**, & Wu, H. (2025). [SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://link.springer.com/chapter/10.1007/978-3-031-99264-3_8). Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy.
 - **Gao, J.**, & Li, S. (2025). Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education. Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
 - **Gao, J.**, & Dubé, A. K. (2024). COMPARISON OF LEARNING EXPERIENCE AMONG INFORMAL LEARNING APPS. In ICERI2024 Proceedings (pp. 337-341). IATED. 10.21125/iceri.2024.0173
 - **Gao, J.**, Huang, X., Dubé, A. K., Lobczowski, N. G. (2024, June). Exploring Duolingo User’s Learning Experience Through Text Mining. Proceeding from 2024 ISLS Annual Meeting, Buffalo, U.S.. https://repository.isls.org/handle/1/11014
