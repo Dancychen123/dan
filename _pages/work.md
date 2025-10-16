@@ -1,5 +1,5 @@
 # 💻 Work and Research Experience
-- *2025.10 - present*, **Collaborating researcher**, Quebec AI Institute (Mila), *Montreal* 
+- *2025.10 - present*, **Collaborating Researcher**, Quebec AI Institute (Mila), *Montreal* 
 - *2025.01 - present*, **Senior Data Quality Specialist**, Cohere, *Toronto* 
 - *2024.01 - present*, **Teaching Assistant**, Faculty of Education, McGill University, *Montreal* 
 - *2023.09 - present*, **Affiliate Member**, CREATE Lab, McGill University, *Montreal*
